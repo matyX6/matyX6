@@ -18,4 +18,10 @@
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
-    
+
+<p align="left"> 
+    Visit my portfolio <a href="https://matyx6.github.io/#/game-projects">here</a>.
+    <br>You can reach me at <a href="mailto:matija.jambresic@yahoo.com">matija.jambresic@yahoo.com</a> or <a href="https://matyx6.github.io/#/contact">through here</a>.
+  <br>Connect with me on <a href="https://www.linkedin.com/in/matijajambresic/">LinkedIn</a>.
+</p>
+ 
