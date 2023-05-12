@@ -6,7 +6,7 @@
 - 🕹️ Worked on a several indie game projects
 - 🌐 Familiar with game networking
 - 📚 Bachelor's degree in Computer Science
-- ⚛️ I can use AI efficiently
+- ⚛️ I can use AI tools efficiently
 
 <h3 align="left">Skills / Tools:</h3>
 <p align="left"> 
