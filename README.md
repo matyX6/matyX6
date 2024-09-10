@@ -2,7 +2,7 @@
 
 ## Game Developer, Software Engineer
 
-- 5️⃣ + years of professional game development experience
+- 7️⃣ + years of professional game development experience
 - 🕹️ Worked on a several indie game projects
 - 🌐 Familiar with game networking
 - 📚 Bachelor's degree in Computer Science
