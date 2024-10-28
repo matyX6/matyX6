@@ -2,11 +2,11 @@
 
 ## Game Developer, Software Engineer
 
-- 7️⃣ + years of professional game development experience
+- 7️⃣ plus years of professional game development experience
 - 🕹️ Worked on a several indie and commercial game projects
-- 🌐 Familiar with game networking, Server-Client
+- 🌐 Experienced in game networking, Server-Client architecture
 - 📚 Bachelor's degree in Computer Science
-- ⚛️ I can use coding AI tools efficiently
+- ⚛️ Proficient with coding AI tools
 
 <h3 align="left">Skills / Tools:</h3>
 <p align="left"> 
@@ -34,5 +34,5 @@
 
 <p align="left"> 
     Visit my portfolio <a href="https://matyx6.github.io/#/game-projects">here</a>.
-    <br>Send me a message at <a href="mailto:matija.jambresic@yahoo.com">matija.jambresic@yahoo.com</a> or <a href="https://matyx6.github.io/#/contact">LinkedIn</a>.
+    <br>Send me a message at <a href="mailto:matija.jambresic@yahoo.com">matija.jambresic@yahoo.com</a> or <a href="https://www.linkedin.com/in/matijajambresic/">LinkedIn</a>.
 </p>
