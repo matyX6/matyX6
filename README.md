@@ -3,10 +3,10 @@
 ## Game Developer, Software Engineer
 
 - 7️⃣ plus years of professional game development experience
-- 🕹️ Worked on a several indie and commercial game projects
+- 🎮 Worked on a several indie and commercial game projects
 - 🌐 Experienced in game networking, Server-Client architecture
-- 📚 Bachelor's degree in Computer Science
-- ⚛️ Proficient with coding AI tools
+- 📜 Bachelor's degree in Computer Science
+- ⚛️ Proficient with AI tools for coding
 
 <h3 align="left">Skills / Tools:</h3>
 <p align="left"> 
